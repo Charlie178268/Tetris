@@ -1,0 +1,10 @@
+E:\CSharp\csharp5_Project\Tetris\Tetris\bin\Debug\Tetris.exe.config
+E:\CSharp\csharp5_Project\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\CSharp\csharp5_Project\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.Form_config.resources
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.pdb
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+E:\CSharp\csharp5_Project\Tetris\Tetris\obj\Debug\Tetris.Form_game.resources

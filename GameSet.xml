@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Block>
+  <Type>
+    <Code>0000000000111110000000000</Code>
+    <Color>-65536</Color>
+  </Type>
+  <Type>
+    <Code>0000000000011000110000000</Code>
+    <Color>-8323200</Color>
+  </Type>
+  <Type>
+    <Code>0000001000011000110000000</Code>
+    <Color>-128</Color>
+  </Type>
+  <Type>
+    <Code>0000001000011000100000000</Code>
+    <Color>-32640</Color>
+  </Type>
+  <Type>
+    <Code>0000001000011100000000000</Code>
+    <Color>-65408</Color>
+  </Type>
+  <Type>
+    <Code>0000001000011000010000000</Code>
+    <Color>-16776961</Color>
+  </Type>
+  <Key>
+    <KeyDown>83</KeyDown>
+    <KeyLeft>65</KeyLeft>
+    <KeyRight>68</KeyRight>
+    <KeyDrop>34</KeyDrop>
+    <KeyRotateWise>40</KeyRotateWise>
+    <KeyRotateAntiWise>38</KeyRotateAntiWise>
+  </Key>
+  <Envment>
+    <HGridNum>15</HGridNum>
+    <VGridNum>10</VGridNum>
+    <GridPixel>20</GridPixel>
+    <BgColor>-1</BgColor>
+  </Envment>
+</Block>
